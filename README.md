@@ -1,6 +1,6 @@
 
 ### 👨‍💻 About Me :
-I am a Systems Engineer from Egypt.
+I am a Systems/Ops Engineer.
 - I’m working as a Systems Engineer and a Programming Instructor.
 
 - I love building solutions and developing new ideas. I recently created a GUI application using PysimpleGui that lets Patients interact with a mobile healthcare device that sends their data to the hospital and to the doctor in charge. I’d love to combine my passion for learning and teaching with my software development skills to continue building products to help people in my community.
