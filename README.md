@@ -1,7 +1,7 @@
 
 ### 👨‍💻 About Me :
 I am a Systems/Ops Engineer.
-- I’m working as a Systems Engineer and a Programming Instructor.
+- I’m working as an AppOps Engineer and a Programming Instructor.
 
 - I love building solutions and developing new ideas. I recently created a GUI application using PysimpleGui that lets Patients interact with a mobile healthcare device that sends their data to the hospital and to the doctor in charge. I’d love to combine my passion for learning and teaching with my software development skills to continue building products to help people in my community.
 
@@ -9,7 +9,7 @@ I am a Systems/Ops Engineer.
 
 - 📫: How to reach me: 
     - [![Linkedin Badge](https://img.shields.io/badge/-Mohamed-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/mohamed-ashraf-mahmoud/)
-    - 📧: mohamedashraaf429@gmail.com
+    - 📧: mm.ashrafarafa@gmail.com
     - 📞: +201014883346
 ---
 
@@ -28,6 +28,9 @@ I am a Systems/Ops Engineer.
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" title="AWS CLF" alt="AWS CLF" width="70" height="70"/>
+  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" title="AWS SAA" alt="AWS SAA" width="70" height="70"/>
+  
 </div>
 
 ---
